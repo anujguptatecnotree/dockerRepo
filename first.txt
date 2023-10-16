@@ -7,3 +7,4 @@ seven in develop
 seven in devlop
 eight in master
 feature1
+feature2
