@@ -1,2 +1,0 @@
-This is commit in master
-new commit in master
